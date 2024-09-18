@@ -1,0 +1,17 @@
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\bin\Debug\net8.0-windows\prueba 1.exe
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\bin\Debug\net8.0-windows\prueba 1.deps.json
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\bin\Debug\net8.0-windows\prueba 1.runtimeconfig.json
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\bin\Debug\net8.0-windows\prueba 1.dll
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\bin\Debug\net8.0-windows\prueba 1.pdb
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\prueba_1.Form1.resources
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\prueba 1.csproj.GenerateResource.cache
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\prueba 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\prueba 1.AssemblyInfoInputs.cache
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\prueba 1.AssemblyInfo.cs
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\prueba 1.csproj.CoreCompileInputs.cache
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\prueba 1.sourcelink.json
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\prueba 1.dll
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\refint\prueba 1.dll
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\prueba 1.pdb
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\prueba 1.genruntimeconfig.cache
+C:\Users\jefel\Downloads\gti hu\prueba 1\prueba 1\obj\Debug\net8.0-windows\ref\prueba 1.dll
