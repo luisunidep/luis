@@ -1,0 +1,7 @@
+C:\Users\jefel\Downloads\gti hu\mayor y menor\mayor y menor\bin\Debug\mayor y menor.exe.config
+C:\Users\jefel\Downloads\gti hu\mayor y menor\mayor y menor\bin\Debug\mayor y menor.exe
+C:\Users\jefel\Downloads\gti hu\mayor y menor\mayor y menor\bin\Debug\mayor y menor.pdb
+C:\Users\jefel\Downloads\gti hu\mayor y menor\mayor y menor\obj\Debug\mayor y menor.csproj.AssemblyReference.cache
+C:\Users\jefel\Downloads\gti hu\mayor y menor\mayor y menor\obj\Debug\mayor y menor.csproj.CoreCompileInputs.cache
+C:\Users\jefel\Downloads\gti hu\mayor y menor\mayor y menor\obj\Debug\mayor y menor.exe
+C:\Users\jefel\Downloads\gti hu\mayor y menor\mayor y menor\obj\Debug\mayor y menor.pdb
