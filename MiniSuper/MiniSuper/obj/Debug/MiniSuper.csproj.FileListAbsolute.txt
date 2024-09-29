@@ -1,0 +1,7 @@
+C:\Users\jefel\Downloads\gti hu\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe.config
+C:\Users\jefel\Downloads\gti hu\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe
+C:\Users\jefel\Downloads\gti hu\MiniSuper\MiniSuper\bin\Debug\MiniSuper.pdb
+C:\Users\jefel\Downloads\gti hu\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.AssemblyReference.cache
+C:\Users\jefel\Downloads\gti hu\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.CoreCompileInputs.cache
+C:\Users\jefel\Downloads\gti hu\MiniSuper\MiniSuper\obj\Debug\MiniSuper.exe
+C:\Users\jefel\Downloads\gti hu\MiniSuper\MiniSuper\obj\Debug\MiniSuper.pdb

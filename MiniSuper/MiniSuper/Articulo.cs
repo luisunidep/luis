@@ -4,12 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tienda
+namespace MiniSuper
 {
-    //precio
-    //ID
-    //Nombre
-    //Cantidad
     class Articulo
     {
         public int ID { get; set; }
@@ -18,6 +14,3 @@ namespace Tienda
         public int Cantidad { get; set; }
     }
 }
-
-
-

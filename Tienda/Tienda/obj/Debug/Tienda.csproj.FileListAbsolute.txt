@@ -5,3 +5,10 @@ C:\Users\jefel\Downloads\gti hu\Tienda\Tienda\obj\Debug\Tienda.csproj.AssemblyRe
 C:\Users\jefel\Downloads\gti hu\Tienda\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
 C:\Users\jefel\Downloads\gti hu\Tienda\Tienda\obj\Debug\Tienda.exe
 C:\Users\jefel\Downloads\gti hu\Tienda\Tienda\obj\Debug\Tienda.pdb
+C:\Users\jefel\Downloads\gti hu\prueba 1\Tienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\jefel\Downloads\gti hu\prueba 1\Tienda\Tienda\bin\Debug\Tienda.exe
+C:\Users\jefel\Downloads\gti hu\prueba 1\Tienda\Tienda\bin\Debug\Tienda.pdb
+C:\Users\jefel\Downloads\gti hu\prueba 1\Tienda\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\jefel\Downloads\gti hu\prueba 1\Tienda\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\jefel\Downloads\gti hu\prueba 1\Tienda\Tienda\obj\Debug\Tienda.exe
+C:\Users\jefel\Downloads\gti hu\prueba 1\Tienda\Tienda\obj\Debug\Tienda.pdb

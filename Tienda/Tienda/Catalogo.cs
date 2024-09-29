@@ -10,8 +10,7 @@ namespace Tienda
     {
         public static List<Articulo> Inventario { get; set; }
 
-        
-       private static void LlenarCatalogo()
+        private static void LlenarCatalogo()
         {
             Inventario = new List<Articulo>
             {
@@ -24,7 +23,6 @@ namespace Tienda
             };
         }
         public static void MostrarCatalogo()
-
         {
             LlenarCatalogo();
             foreach (Articulo art in Inventario)
@@ -35,7 +33,6 @@ namespace Tienda
         public static Articulo BuscarArticuloporID(int artID)
         {
             return Inventario.Find(x => x.ID.Equals(artID));
-
         }
     }
 }
