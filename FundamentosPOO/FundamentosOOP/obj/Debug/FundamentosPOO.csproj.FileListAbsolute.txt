@@ -1,0 +1,14 @@
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\FundamentosPOO\bin\Debug\FundamentosPOO.exe.config
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\FundamentosPOO\bin\Debug\FundamentosPOO.exe
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\FundamentosPOO\bin\Debug\FundamentosPOO.pdb
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\FundamentosPOO\obj\Debug\FundamentosPOO.csproj.AssemblyReference.cache
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\FundamentosPOO\obj\Debug\FundamentosPOO.csproj.CoreCompileInputs.cache
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\FundamentosPOO\obj\Debug\FundamentosPOO.exe
+C:\Users\salaz\OneDrive\Escritorio\unidep\POO\Semana1\FundamentosPOO\obj\Debug\FundamentosPOO.pdb
+C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\bin\Debug\FundamentosPOO.exe.config
+C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\bin\Debug\FundamentosPOO.exe
+C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\bin\Debug\FundamentosPOO.pdb
+C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\obj\Debug\FundamentosPOO.csproj.AssemblyReference.cache
+C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\obj\Debug\FundamentosPOO.csproj.CoreCompileInputs.cache
+C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\obj\Debug\FundamentosPOO.exe
+C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\obj\Debug\FundamentosPOO.pdb
