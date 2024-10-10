@@ -12,3 +12,10 @@ C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\obj\Debug\Fundament
 C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\obj\Debug\FundamentosPOO.csproj.CoreCompileInputs.cache
 C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\obj\Debug\FundamentosPOO.exe
 C:\Users\jefel\Downloads\clone2\IntroPOO-main\FundamentosPOO\obj\Debug\FundamentosPOO.pdb
+C:\Users\jefel\Downloads\gti hu\prueba 1\FundamentosPOO\FundamentosOOP\bin\Debug\FundamentosPOO.exe.config
+C:\Users\jefel\Downloads\gti hu\prueba 1\FundamentosPOO\FundamentosOOP\bin\Debug\FundamentosPOO.exe
+C:\Users\jefel\Downloads\gti hu\prueba 1\FundamentosPOO\FundamentosOOP\bin\Debug\FundamentosPOO.pdb
+C:\Users\jefel\Downloads\gti hu\prueba 1\FundamentosPOO\FundamentosOOP\obj\Debug\FundamentosPOO.csproj.AssemblyReference.cache
+C:\Users\jefel\Downloads\gti hu\prueba 1\FundamentosPOO\FundamentosOOP\obj\Debug\FundamentosPOO.csproj.CoreCompileInputs.cache
+C:\Users\jefel\Downloads\gti hu\prueba 1\FundamentosPOO\FundamentosOOP\obj\Debug\FundamentosPOO.exe
+C:\Users\jefel\Downloads\gti hu\prueba 1\FundamentosPOO\FundamentosOOP\obj\Debug\FundamentosPOO.pdb

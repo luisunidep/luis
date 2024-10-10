@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosPOO", "FundamentosPOO.csproj", "{76F17E1F-2CAD-4021-886A-756110D367B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosPOO", "..\gti hu\prueba 1\FundamentosPOO\FundamentosOOP\FundamentosPOO.csproj", "{76F17E1F-2CAD-4021-886A-756110D367B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E0445818-805F-48D0-836A-47006CCAD9F9}
+		SolutionGuid = {E4922F3F-B0FE-46E1-AF01-1A55B162433E}
 	EndGlobalSection
 EndGlobal
