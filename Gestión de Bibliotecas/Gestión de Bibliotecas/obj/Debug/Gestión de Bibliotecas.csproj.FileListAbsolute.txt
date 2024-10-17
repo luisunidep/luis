@@ -1,0 +1,48 @@
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\Gestión de Bibliotecas.exe.config
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\Gestión de Bibliotecas.exe
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\Gestión de Bibliotecas.pdb
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.Form1.resources
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.Properties.Resources.resources
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.exe
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.pdb
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormLibros.resources
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormPrestamos.resources
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormLectores.resources
+C:\Users\migue\source\repos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormAutor.resources
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\Gestión de Bibliotecas.exe.config
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\Gestión de Bibliotecas.exe
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\Gestión de Bibliotecas.pdb
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\System.Data.SqlClient.dll
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.csproj.AssemblyReference.cache
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormAutor.resources
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.Form1.resources
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormLectores.resources
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormLibros.resources
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormPrestamos.resources
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.Properties.Resources.resources
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.csproj.GenerateResource.cache
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.csproj.CoreCompileInputs.cache
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión .D681B8AC.Up2Date
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.exe
+C:\Users\jefel\Downloads\proyecto2\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.pdb
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\Gestión de Bibliotecas.exe.config
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\Gestión de Bibliotecas.exe
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\Gestión de Bibliotecas.pdb
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\System.Data.SqlClient.dll
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.csproj.AssemblyReference.cache
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormAutor.resources
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.Form1.resources
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormLectores.resources
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormLibros.resources
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.FormPrestamos.resources
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión_de_Bibliotecas.Properties.Resources.resources
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.csproj.GenerateResource.cache
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.csproj.CoreCompileInputs.cache
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión .D681B8AC.Up2Date
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.exe
+C:\Users\jefel\Videos\Gestión de Bibliotecas\Gestión de Bibliotecas\obj\Debug\Gestión de Bibliotecas.pdb
